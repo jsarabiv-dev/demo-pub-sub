@@ -107,5 +107,9 @@ public class pubsub {
         System.out.println("metodoNuevo! cambios rama develop");
     }
 
+    public void metodoNuevo2(){
+        System.out.println("metodoNuevo! cambios rama develop");
+    }
+
 
 }
