@@ -103,5 +103,9 @@ public class pubsub {
         return new PubSubMessageHandler(pubsubTemplate, "tema-salida");
     }
 
+    public void metodoNuevo(){
+        System.out.println("metodoNuevo!");
+    }
+
 
 }
