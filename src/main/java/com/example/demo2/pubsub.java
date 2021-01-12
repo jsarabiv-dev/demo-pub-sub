@@ -104,7 +104,7 @@ public class pubsub {
     }
 
     public void metodoNuevo(){
-        System.out.println("metodoNuevo!");
+        System.out.println("metodoNuevo! ajja");
     }
 
 
